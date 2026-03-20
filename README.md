@@ -1,5 +1,6 @@
 # Piano Platform Analytics Dashboard
-
+## Preview
+![Dashboard](dashboard_preview.png)
 ## Overview
 End-to-end analytics project for a global online piano learning platform
 operating across 10+ countries with 5,000+ users.
